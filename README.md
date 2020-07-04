@@ -18,7 +18,7 @@ We then performed 2 tasks:
 
 ## Vocabulary
 
-We considered the **1000 most frequent words** to buid our vocabulary. Those which were not among them were considered as being out of vocabulary and replaced by <OOV> token in data set. Hence we had 13.1% out-of-vocabulary tokens among whole data set.
+We considered the **1000 most frequent words** to buid our vocabulary. Those which were not among them were considered as being out of vocabulary and replaced by <OOV> token in data set. Hence we had 13.1% of OOV tokens among whole data set.
 
 ## Preprocessing
 
