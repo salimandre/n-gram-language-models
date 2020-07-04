@@ -18,3 +18,8 @@ We then performed 2 tasks:
 
 ## Preprocessing
 
+raw data:
+
+training data:
+
+
