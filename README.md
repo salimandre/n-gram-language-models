@@ -39,4 +39,8 @@ We only performed basic NLP preprocessing as we want to be able to generate text
 ```
 ## Models
 
- \mu_{bi}(w_i | w_1,...,w_{i-1}) = \mu_{bi}(w_i | w_{i-1})
+Here is the list of models we designed:
+
+## Evaluation
+
+
