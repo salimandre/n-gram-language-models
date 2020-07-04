@@ -29,6 +29,6 @@ raw data:
 training data:
 
 ```
-
+<S> my dear mr bennet said his lady to him one day have you heard that netherfield park is let at last </S> <S> mr bennet replied that he had not </S>
 ```
 
