@@ -12,9 +12,9 @@ We then performed 2 tasks:
 
 **Data**: ebook Pride and Prejudice by Jane Austen
 
-**training**: 60 first chapters roughly 125 000 tokens
+**Training**: 60 first chapters roughly 125 000 tokens
 
-**test**: last chapter roughly 1250 tokens
+**Test**: last chapter roughly 1250 tokens
 
 ## Vocabulary
 
