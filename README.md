@@ -41,7 +41,7 @@ Without surprise we can observe Zipf's law on the plot of word frequencies.
       them.”
 ```
 
-We only performed basic NLP preprocessing as we want to be able to generate text properly. Although using stemming or/and lemmatization could have helped us to 'absorb' more words into our vocabulary.
+We only performed basic NLP preprocessing as we want to model language properly.
 
 **Training data sample**:
 ```
@@ -75,4 +75,13 @@ We used perplexity which is the usual metric to evaluate language models, whose 
 
 ## Text generation
 
+**sample of generated text**:
+
+```
+<S> i cannot bear to speak with the <OOV> must be <OOV> by <OOV> for myself with grateful respect towards anybody connected with his sister and with more <OOV> than i <OOV> said in a tone which had always <OOV> about him </S> <S> </S> <S> oh my dear father i <OOV> other <OOV> elizabeth hoped it might <OOV> <OOV> you may suppose of my <OOV> till <OOV> put an end to by any <OOV> appearance of composure elizabeth merely <OOV> but though not in her little <OOV> <OOV> and the evening would <OOV> have been a <OOV> of
+```
+**sample of generated text**:
+```
+<S> upon my word sir cried elizabeth </S> <S> oh dear yes but <OOV> imagine it was not able to <OOV> that his character for it however at her entrance she was reading a <OOV> excuse for not having done thus much there is no <OOV> to be <OOV> near the <OOV> that you <OOV> were removed and the <OOV> of some one else elizabeth at that moment i may <OOV> his mind was not <OOV> a kind to make his <OOV> to charlotte’s first <OOV> is ever to see many young men too that she had
+```
 
