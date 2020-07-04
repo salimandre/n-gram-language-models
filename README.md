@@ -31,6 +31,6 @@ We only performed basic NLP preprocessing as we want to be able to generate text
 
 **training data sample**:
 ```
-<S> my dear mr bennet said his lady to him one day have you heard that netherfield park is let at last </S> <S> mr bennet replied that he had not </S>
+<S> how so how can it <OOV> them </S> <S> my dear mr bennet replied his wife how can you be so <OOV> you must know that i am thinking of his marrying one of them </S>
 ```
 
