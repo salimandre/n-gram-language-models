@@ -22,7 +22,7 @@ We considered the **1000 most frequent words** to buid our vocabulary. Those whi
 
 ## Preprocessing
 
-**raw data sample**:
+**Raw data sample**:
 ```
       “How so? How can it affect them?”
 
@@ -33,7 +33,7 @@ We considered the **1000 most frequent words** to buid our vocabulary. Those whi
 
 We only performed basic NLP preprocessing as we want to be able to generate text properly. Although using stemming or/and lemmatization could have helped us to 'absorb' more words into our vocabulary.
 
-**training data sample**:
+**Training data sample**:
 ```
 <S> how so how can it <OOV> them </S> <S> my dear mr bennet replied his wife how can you be so <OOV> you must know that i am thinking of his marrying one of them </S>
 ```
