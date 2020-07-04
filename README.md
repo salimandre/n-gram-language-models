@@ -16,6 +16,9 @@ We then performed 2 tasks:
 
 **test**: last chapter roughly 1250 tokens
 
+## Vocabulary
+
+
 ## Preprocessing
 
 **raw data sample**:
