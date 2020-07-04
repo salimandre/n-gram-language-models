@@ -10,6 +10,6 @@ We then performed 2 tasks:
 
 ## Dataset
 
-**training** set: 60 first chapters roughly 125 000 tokens
+**training**: 60 first chapters roughly 125 000 tokens
 
-**test set**: last chapter roughly 1250 tokens
+**test**: last chapter roughly 1250 tokens
