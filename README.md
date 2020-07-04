@@ -22,7 +22,13 @@ We then performed 2 tasks:
 
 ## Vocabulary
 
-We considered the **1000 most frequent words** to buid our vocabulary. Those which were not among them were considered as being out of vocabulary and replaced by <OOV> token in data set. Hence we had 13.1% of OOV words among whole data set. Without surprise we can observe Zipf's law on the plot of word frequencies.
+We considered the **1000 most frequent words** to buid our vocabulary. Those which were not among them were considered as being out of vocabulary and replaced by <OOV> token in data set. Hence we had 13.1% of OOV words among whole data set. 
+  
+Without surprise we can observe Zipf's law on the plot of word frequencies.
+
+<p align="center">
+  <img src="imgs/vocab.png" width="25%">
+</p>
 
 ## Preprocessing
 
