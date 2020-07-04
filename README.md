@@ -10,6 +10,8 @@ We then performed 2 tasks:
 
 ## Dataset
 
+**Data**: ebook Pride and Prejudice by Jane Austen
+
 **training**: 60 first chapters roughly 125 000 tokens
 
 **test**: last chapter roughly 1250 tokens
