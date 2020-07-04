@@ -57,11 +57,11 @@ Here is the list of models we designed:
 
 ## Evaluation
 
-| Model | Mixture parameters | Perplexity on test set |
-| --- | --- | --- |
-| Smoothed bigram| lambda = 0.2 | |
-| Smoothed trigram| lambda = 0.5 | |
-| bigram/trigram mixture | lambda = 0.2, alpha = 0.8 | |
+| Model | Mixture parameters | Perplexity on train set | Perplexity on test set |
+| --- | --- | --- | --- |
+| Smoothed bigram| lambda = 0.2 | 44 | 91 |
+| Smoothed trigram| lambda = 0.5 | 14 | 180 |
+| bigram/trigram mixture | lambda = 0.2, alpha = 0.8 | 17 | 84 |
 
 <p align="center">
   <img src="imgs/perplexity.png" width="60%">
