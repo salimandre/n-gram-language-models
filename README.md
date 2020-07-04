@@ -61,6 +61,11 @@ Here is the list of models we designed:
   <img src="imgs/perplexity.png" width="60%">
 </p>
 
+
+| Model | Perplexity on test set|
+| --- | --- |
+| | | 
+
 ## Text generation
 
 
