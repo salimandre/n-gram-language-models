@@ -27,7 +27,7 @@ We considered the **1000 most frequent words** to buid our vocabulary. Those whi
 Without surprise we can observe Zipf's law on the plot of word frequencies.
 
 <p align="center">
-  <img src="imgs/vocab.png" width="75%">
+  <img src="imgs/vocab.png" width="60%">
 </p>
 
 ## Preprocessing
