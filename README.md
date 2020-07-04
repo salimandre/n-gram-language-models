@@ -1,2 +1,2 @@
-# n-gram
-language modeling, bigram, trigram, mixture of language models
+# N-gram models for language modeling
+
