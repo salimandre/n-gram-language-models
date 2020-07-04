@@ -15,3 +15,6 @@ We then performed 2 tasks:
 **training**: 60 first chapters roughly 125 000 tokens
 
 **test**: last chapter roughly 1250 tokens
+
+## Preprocessing
+
