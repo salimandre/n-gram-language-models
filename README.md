@@ -57,14 +57,16 @@ Here is the list of models we designed:
 
 ## Evaluation
 
+| Model | Mixture parameters | Perplexity on test set |
+| --- | --- | --- |
+| Smoothed bigram| [0.2] | |
+| Smoothed trigram| [0.2] | |
+| bigram/trigram mixture | [0.2] | |
+
 <p align="center">
   <img src="imgs/perplexity.png" width="60%">
 </p>
 
-
-| Model | Perplexity on test set|
-| --- | --- |
-| | | 
 
 ## Text generation
 
