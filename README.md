@@ -18,7 +18,7 @@ We then performed 2 tasks:
 
 ## Preprocessing
 
-raw data:
+**raw data sample**:
 ```
 “My dear Mr. Bennet,” said his lady to him one day, “have you
       heard that Netherfield Park is let at last?”
@@ -28,7 +28,7 @@ raw data:
 
 We only performed basic NLP preprocessing as we want to be able to generate text. Although using stemming or/and lemmatization could have helped us to 'absorb' more words into our vocabulary.
 
-training data:
+**training data sample**:
 ```
 <S> my dear mr bennet said his lady to him one day have you heard that netherfield park is let at last </S> <S> mr bennet replied that he had not </S>
 ```
