@@ -57,6 +57,10 @@ Here is the list of models we designed:
 
 ## Evaluation
 
+<p align="center">
+  <img src="imgs/perplexity.png" width="60%">
+</p>
+
 ## Text generation
 
 
