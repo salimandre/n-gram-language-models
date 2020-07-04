@@ -7,3 +7,8 @@ As for dataset we simply used the book of Jane Austen which appears to be the mo
 We then performed 2 tasks:
   - language model evaluation by computing **perplexity** on test set
   - text generation using raw bigram model
+
+## Dataset
+
+training set: 60 first chapters roughly 125 000 tokens
+test set: last chapter roughly 1250 tokens
