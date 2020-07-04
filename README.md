@@ -5,8 +5,8 @@ We simply built n-gram models which are simple baseline language models. More pr
 As for dataset we simply used the book **Pride and Prejudice** of Jane Austen which appears to be the most downloaded ebooks from [Gutenberg project](https://www.gutenberg.org/ebooks/search/%3Fsort_order%3Ddownloads). 
 
 We then performed 2 tasks:
-  - language model evaluation by computing **perplexity** on test set
-  - text generation using raw bigram model
+  - language model **evaluation** by computing **perplexity** on test set
+  - **text generation** using raw bigram model
 
 ## Dataset
 
