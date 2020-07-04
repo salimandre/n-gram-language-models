@@ -51,6 +51,10 @@ We only performed basic NLP preprocessing as we want to be able to generate text
 
 Here is the list of models we designed:
 
+<p align="center">
+  <img src="imgs/models.png" width="60%">
+</p>
+
 ## Evaluation
 
 ## Text generation
