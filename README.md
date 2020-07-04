@@ -57,6 +57,11 @@ Here is the list of models we designed:
 
 ## Evaluation
 
+We used perplexity which is the usual metric to evaluate language models, whose formula is the following: 
+<p align="center">
+  <img src="imgs/ppl_formula.png" width="60%">
+</p>
+
 | Model | Mixture parameters | Perplexity on train set | Perplexity on test set |
 | --- | --- | --- | --- |
 | Smoothed bigram| lambda = 0.2 | 44 | 91 |
