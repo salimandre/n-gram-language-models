@@ -12,6 +12,10 @@ We then performed 2 tasks:
 
 **Data**: ebook Pride and Prejudice by Jane Austen
 
+<p align="center">
+  <img src="imgs/pap.cover.medium.jpg" width="24%">
+</p>
+
 **Training**: 60 first chapters roughly 125 000 tokens
 
 **Test**: last chapter roughly 1250 tokens
