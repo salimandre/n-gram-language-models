@@ -37,4 +37,6 @@ We only performed basic NLP preprocessing as we want to be able to generate text
 ```
 <S> how so how can it <OOV> them </S> <S> my dear mr bennet replied his wife how can you be so <OOV> you must know that i am thinking of his marrying one of them </S>
 ```
+## Models
 
+ \mu_{bi}(w_i | w_1,...,w_{i-1}) = \mu_{bi}(w_i | w_{i-1})
