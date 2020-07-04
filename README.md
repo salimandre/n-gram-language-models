@@ -6,4 +6,4 @@ As for dataset we simply used the book of Jane Austen which appears to be the mo
 
 We then performed 2 tasks:
   - language model evaluation by computing **perplexity** on test set
-  - 
+  - text generation using raw bigram model
