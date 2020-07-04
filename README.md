@@ -19,7 +19,16 @@ We then performed 2 tasks:
 ## Preprocessing
 
 raw data:
+```
+“My dear Mr. Bennet,” said his lady to him one day, “have you
+      heard that Netherfield Park is let at last?”
+
+      Mr. Bennet replied that he had not.
+```
 
 training data:
 
+```
+
+```
 
