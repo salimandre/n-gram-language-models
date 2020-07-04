@@ -20,10 +20,11 @@ We then performed 2 tasks:
 
 **raw data sample**:
 ```
-      “My dear Mr. Bennet,” said his lady to him one day, “have you
-      heard that Netherfield Park is let at last?”
+      “How so? How can it affect them?”
 
-      Mr. Bennet replied that he had not.
+      “My dear Mr. Bennet,” replied his wife, “how can you be so
+      tiresome! You must know that I am thinking of his marrying one of
+      them.”
 ```
 
 We only performed basic NLP preprocessing as we want to be able to generate text properly. Although using stemming or/and lemmatization could have helped us to 'absorb' more words into our vocabulary.
